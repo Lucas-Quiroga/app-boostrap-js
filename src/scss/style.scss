@@ -1,2 +1,11 @@
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
+
+#descripcion{
+    resize: none;
+}
+
+.centrado {
+    text-align: center;
+    vertical-align: middle;
+}
